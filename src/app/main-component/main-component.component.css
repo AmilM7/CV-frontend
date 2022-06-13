@@ -1,0 +1,42 @@
+
+body {
+  background: #17a2b8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-size: 16px;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 1400px;
+  min-height: 600px;
+  background: #f8f9fa;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  box-shadow: 0px 10px 25px #333;
+  margin: 1.5rem;
+}
+
+@media (max-width: 800px) {
+  .container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+@media (max-width: 500px) {
+  .experience .content {
+    grid-template-columns: 1fr;
+    margin: 0 3rem;
+  }
+
+  .hobby {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .hobby li {
+    margin-bottom: 1rem;
+  }
+}
