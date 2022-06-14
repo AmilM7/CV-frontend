@@ -4,9 +4,8 @@
 ## About project
 
 This project is my CV turned into web application that promotes my skills and knowledge.
-The following technologies were used:
-
--Typescript
+The following technologies were used: <br>
+-Typescript <br>
 -JavaScript
 -HTML
 -CSS
