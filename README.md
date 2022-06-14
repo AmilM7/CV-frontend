@@ -18,7 +18,7 @@ There is only one page which consists of: <br>
 -my abilities <br>
 -activities  <br>
 
-There are is also opetion to contact me using email or Linkedin account.
+There are is also option to contact me using email or Linkedin account.
 
 ## Technical part
 
