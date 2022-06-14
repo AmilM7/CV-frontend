@@ -11,7 +11,7 @@ The following technologies were used: <br>
 -CSS <br>
 -Angular was used as framework  <br>
 
-There is only one page which consists of:
+There is only one page which consists of: <br>
 -short biography <br>
 -education <br>
 -experience <br>
